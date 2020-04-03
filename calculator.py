@@ -3,7 +3,7 @@ from tkinter import *
 window = Tk()
 window.geometry("336x372") # size of the window width:- 500, height:- 375
 window.resizable(0, 0) # this prevents from resizing the window
-window.title("Juna's Calculator")
+window.title("Juna's Python Calculator")
 ################################### functions ######################################
 # 'btn_click' function continuously updates the input field whenever you enters a number
 def btn_click(item):
